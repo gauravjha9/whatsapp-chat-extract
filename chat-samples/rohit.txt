@@ -1,0 +1,7 @@
+[10:00 AM] Rohit: Hey! This is Rohit from LogiTechie.
+[10:01 AM] You: Hi Rohit! How may I help you?
+[10:02 AM] Rohit: Looking for DevOps support packages. Can you send options?
+[10:03 AM] You: Sure, may I get your email?
+[10:04 AM] Rohit: rohit@logitechie.io. We're running 3 production apps.
+[10:05 AM] You: Sounds good. When are you planning to begin?
+[10:06 AM] Rohit: Hopefully within 10–12 days.

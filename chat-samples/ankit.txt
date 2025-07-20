@@ -1,0 +1,7 @@
+[2:45 PM] Ankit: Hi, this is Ankit from BrightWorks.
+[2:46 PM] You: Hi Ankit! How may I help you today?
+[2:47 PM] Ankit: We need API access for data analytics. Can you guide us on pricing?
+[2:48 PM] You: Sure thing. Can I get your email?
+[2:49 PM] Ankit: ankit@brightworks.ai. We’ll be processing around 1TB/month.
+[2:50 PM] You: Noted. Any timeline you're working with?
+[2:51 PM] Ankit: Within 10 days, if possible.

@@ -1,0 +1,7 @@
+[12:10 PM] Meera: Hi, Meera from FinWave here.
+[12:11 PM] You: Hi Meera! How can I assist?
+[12:12 PM] Meera: We need secure document storage. Can you send pricing info?
+[12:13 PM] You: Absolutely. What’s your email?
+[12:14 PM] Meera: meera@finwave.org. We handle around 600 GB/month.
+[12:15 PM] You: Noted. When are you planning to start?
+[12:16 PM] Meera: Ideally by next week.

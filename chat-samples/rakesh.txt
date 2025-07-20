@@ -1,0 +1,7 @@
+[10:15 AM] Rakesh: Hi, this is Rakesh from GreenTech Solutions.
+[10:16 AM] You: Hi Rakesh, how can I help you?
+[10:17 AM] Rakesh: We’re interested in your cloud hosting plans. Can you share pricing?
+[10:19 AM] You: Absolutely. Can I get your email?
+[10:20 AM] Rakesh: Sure, rakesh@greentech.com. Also, our expected usage is about 500 GB/month.
+[10:21 AM] You: Great, will send details. When do you need to go live?
+[10:22 AM] Rakesh: Ideally in 2 weeks.

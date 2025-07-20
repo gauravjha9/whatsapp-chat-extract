@@ -1,0 +1,7 @@
+[8:30 AM] Raj: Morning! Raj here from NeoLabs.
+[8:31 AM] You: Good morning Raj, how can I help today?
+[8:32 AM] Raj: We need a dashboard for analytics. Can we schedule a demo?
+[8:33 AM] You: Yes, I’ll need your email to proceed.
+[8:34 AM] Raj: raj@neolabs.in. We track about 100K events daily.
+[8:35 AM] You: Great! When do you want to start the trial?
+[8:36 AM] Raj: Sometime early next week would be perfect.

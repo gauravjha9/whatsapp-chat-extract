@@ -1,0 +1,15 @@
+# Environment Variable Management
+python-dotenv
+
+
+# FastAPI
+fastapi[standard]
+uvicorn
+pydantic
+pydantic-settings
+
+
+# LangChain Core
+langchain
+langchain-groq
+langchain-community

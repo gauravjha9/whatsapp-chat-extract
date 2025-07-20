@@ -1,0 +1,7 @@
+[11:02 AM] Priya: Hello, Priya here from TechNova.
+[11:03 AM] You: Hi Priya, how can I assist you today?
+[11:04 AM] Priya: We’re evaluating CRM tools. Can you share your product features?
+[11:05 AM] You: Absolutely. May I have your email address?
+[11:06 AM] Priya: Sure, priya@technova.io. We're also expecting 50 users initially.
+[11:07 AM] You: Thanks! When are you planning to onboard?
+[11:08 AM] Priya: Hoping to get started by next month.

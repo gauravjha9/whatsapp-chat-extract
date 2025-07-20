@@ -1,0 +1,8 @@
+[1:30 PM] Varun: Hello! This is Varun from PixelLogic.
+[1:31 PM] You: Hello Varun! How can I assist you?
+[1:32 PM] Varun: We’re evaluating a project management solution. Can you send a quote?
+[1:33 PM] You: Sure. Please share your email.
+[1:34 PM] Varun: varun@pixellogic.com. We expect to have 20 team members onboard.
+[1:35 PM] You: Perfect. Any deadline for rollout?
+[1:36 PM] Varun: Hoping to go live by next Monday.
+

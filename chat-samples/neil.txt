@@ -1,0 +1,7 @@
+[5:00 PM] Neil: Hi, this is Neil from CloudNest.
+[5:01 PM] You: Hello Neil, how can I help?
+[5:02 PM] Neil: We’re interested in migrating our servers. Can you guide us?
+[5:03 PM] You: Certainly! Could you share your email?
+[5:04 PM] Neil: Sure—neil@cloudnest.com. We're currently using AWS.
+[5:05 PM] You: Great. Any migration deadline?
+[5:06 PM] Neil: Within the next 2 weeks ideally.

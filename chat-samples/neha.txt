@@ -1,0 +1,11 @@
+[5:30 PM] Neha: Hello! Neha here from QuickServe India.
+[5:31 PM] You: Hi Neha! What can I help you with?
+[5:32 PM] Neha: We need a customer support ticketing system.
+[5:33 PM] You: Definitely! Can I get your email address?
+[5:34 PM] Neha: neha@quickserve.in
+[5:35 PM] You: Thanks! How many agents will use the system?
+[5:36 PM] Neha: About 15 to start with.
+[5:37 PM] You: Great. When are you hoping to get started?
+[5:38 PM] Neha: By next Monday.
+[5:39 PM] You: Can I also get a phone number for support coordination?
+[5:40 PM] Neha: Yes, 9321456789.
